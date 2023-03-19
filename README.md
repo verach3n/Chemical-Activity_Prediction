@@ -118,6 +118,5 @@ This repository is structured as follows:
 - `Template.ipynb`
 
 - `FinalSelection.ipynb`
+
 - `Template.ipynb` 
-- `Template.ipynb``
-- `Template.ipynb`

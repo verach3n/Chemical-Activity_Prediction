@@ -105,9 +105,9 @@ Here, the second argument corresponds to the size of the substructures and the t
 
 This repository is structured as follows:
 
-- `Features.ipynb`:
+- `Features.ipynb`
 
-- `KNeighborsClassifier_Result`: 
+- `KNeighborsClassifier_Result`
 
 - `LogisticRegression_Result`
 
